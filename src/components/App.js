@@ -26,6 +26,9 @@ const App = (props) =>{
     return (
       <div>
         <h1>Notes</h1>
+        <button onClick={()=> setShowAll(!showAll)}>
+          show {showAll? 'important' : 'all'}
+        </button>
         <ul>
           {notesToShow.map(x=>{
             console.log(x.id, x.content);
