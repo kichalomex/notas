@@ -16,7 +16,7 @@ const App = () =>{
           setNotes(response.data)
     })
   },[])
-  
+  console.log('render',notes.length,'notes');
   const addNote = (event) => {
     event.preventDefault()
     //console.log('button clicked', event);
