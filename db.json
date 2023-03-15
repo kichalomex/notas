@@ -10,7 +10,7 @@
       "id": 2,
       "content": "Browser can execute only Javascript",
       "date": "2023-02-15",
-      "important": false
+      "important": true
     },
     {
       "id": 3,
@@ -21,7 +21,7 @@
     {
       "content": "Nota nueva",
       "date": "2023-03-15T22:19:19.112Z",
-      "important": false,
+      "important": true,
       "id": 4
     },
     {
@@ -29,6 +29,18 @@
       "date": "2023-03-15T22:24:33.682Z",
       "important": false,
       "id": 5
+    },
+    {
+      "content": "prueba 2",
+      "date": "2023-03-15T23:19:43.875Z",
+      "important": true,
+      "id": 6
+    },
+    {
+      "content": "asdasdsa",
+      "date": "2023-03-15T23:23:05.373Z",
+      "important": false,
+      "id": 7
     }
   ]
 }
