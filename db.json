@@ -39,7 +39,7 @@
     {
       "content": "asdasdsa",
       "date": "2023-03-15T23:23:05.373Z",
-      "important": false,
+      "important": true,
       "id": 7
     }
   ]
