@@ -1,5 +1,5 @@
 import axios from 'axios';
-const url = 'http://localhost:3001/api/notes'
+const url = 'https://notes-server-rofq.onrender.com/api/notes'
 
 const getAll = () => {
     const request = axios.get(url)
